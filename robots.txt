@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://sagaryoda.github.io/sitemap.xml

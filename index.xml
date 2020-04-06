@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SagarYoda</title>
+    <link>https://sagaryoda.github.io/</link>
+    <description>Recent content on SagarYoda</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 04 Apr 2020 20:44:56 -0700</lastBuildDate>
+    
+	<atom:link href="https://sagaryoda.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>My First Post - Face Drawing - JavaScript</title>
+      <link>https://sagaryoda.github.io/posts/my-first/</link>
+      <pubDate>Sat, 04 Apr 2020 20:44:56 -0700</pubDate>
+      
+      <guid>https://sagaryoda.github.io/posts/my-first/</guid>
+      <description>This is my First post to the world.
+This is my post as well as showing someone.
+Crying thought historic times / like the Novel Corona-Virus. This is a picture of me which describes me because it shows. How I feel due to the virus spreading thorough whole global.</description>
+    </item>
+    
+  </channel>
+</rss>
